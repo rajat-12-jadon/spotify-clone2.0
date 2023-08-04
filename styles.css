@@ -307,15 +307,3 @@ a {
 .alb-feat:hover {
     opacity: 1;
 }
-
-.fav {
-    margin-left: 1rem;
-}
-
-.pic p {
-    display: inline;
-    text-align: start;
-    position: absolute;
-    font-size: 1rem;
-    margin-left: 1rem;
-}
