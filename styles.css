@@ -307,3 +307,10 @@ a {
 .alb-feat:hover {
     opacity: 1;
 }
+
+@media (max-width: 1040px) {
+    p{
+        display: none;
+
+    }
+}
